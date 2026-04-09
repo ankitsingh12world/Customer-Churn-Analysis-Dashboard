@@ -82,7 +82,7 @@ The dataset includes the following attributes:
 
 ## 📷 Dashboard Preview
 
-![alt text](<Screenshot (610).png>)
+![Dashboard Preview](images/dashboard.png)
 
 
 ---
